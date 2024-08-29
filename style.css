@@ -16,7 +16,9 @@ body{
     color: #22D4FD;
 }
 .apresentacao{
+    margin:10%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 
 }
